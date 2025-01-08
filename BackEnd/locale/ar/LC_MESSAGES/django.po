@@ -315,3 +315,10 @@ msgstr "قائمة الشحنات"
 
 #~ msgid "completion"
 #~ msgstr "مكتملة"
+
+
+msgid "Create Shipment"
+msgstr "شحنة جديدة"
+
+msgid "Create Receipt"
+msgstr "سند صرف جديد"
